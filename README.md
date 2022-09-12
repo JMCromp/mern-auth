@@ -1,3 +1,3 @@
 # mern-auth
 
-> **Note:** Teaching and Learning exemplar.
+> **Note:** Teaching and learning exemplar, dependencies are intentionally out-dated.
